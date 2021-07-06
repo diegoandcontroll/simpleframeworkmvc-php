@@ -7,4 +7,8 @@
   add php to path 
   ```
   
-## run ``` cd public php -S localhost:8080 ```
+## run 
+``` 
+cd public php -S localhost:8080 
+
+```
