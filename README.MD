@@ -2,7 +2,8 @@
 
 ## install 
   ``` 
-  git clone <https://github.com/diegoandcontroll/simpleframeworkmvcphp.git>
+  git clone https://github.com/diegoandcontroll/simpleframeworkmvc-php.git
+  
   add php to path 
   ```
   
